@@ -1,0 +1,10 @@
+{
+  "desiredContentHash": "47416ec006e02dc4550bb5f79bc5d945aca3e9098e81b9fc14a1a29b66384d59",
+  "docsUrl": "https://cherry-belts.docs.buildwithfern.com",
+  "starter": {
+    "repoOwner": "fern-api",
+    "repoName": "docs-starter-internal",
+    "commitSha": "7a136fbd26e750f96d049759bc080129b23e7a5c",
+    "label": "2026-07-layouts-launch"
+  }
+}
