@@ -34,6 +34,8 @@ navigation:
           - page: Support
             path: docs/pages/support.mdx
             icon: fa-duotone fa-headset
+          - page: Conveyor Belt
+            path: ./docs/pages/conveyor-belt.mdx
       - section: Changelog
         contents:
           - changelog: docs/changelog
